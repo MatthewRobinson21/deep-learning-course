@@ -233,8 +233,7 @@ If you found this course useful, please kindly consider citing it as below:
                       Andrew Whelan and
                       Harrison Ellis and
                       Brendan Bolon},
-      title        = {{machinelearningmindset/machine-learning-course: 
-                       Machine Learning with Python}},
+      title        = {{machinelearningmindset/Deep-Learning-Course}},
       month        = april,
       year         = 2020,
       publisher    = {},
